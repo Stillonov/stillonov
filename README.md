@@ -1,4 +1,4 @@
-### 👋 Hello and welcome to my GitHub account!
+### Hello and welcome to my GitHub account! 👋
 
 <!--
 **Stillonov/stillonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
